@@ -23,7 +23,9 @@
         "symfony/twig-bundle": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*",
-        "symfony/yaml": "*"
+        "symfony/yaml": "*",
+        "symfony/phpunit-bridge": "*"
+
     },
     "require-dev": {
         "doctrine/data-fixtures": "^1.3",
